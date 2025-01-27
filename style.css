@@ -1,0 +1,27 @@
+.about-title h2{
+    font-family: "El Messiri", sans-serif;
+    font-size: 50px;
+}
+
+.about-title p{
+    font-family: "Bellota", system-ui;
+}
+
+.about-section{
+    padding-block: 100px;
+}
+
+.food-bg{
+    background-color: rgb(84, 84, 84);
+    padding: 40px;
+}
+
+.offer-title{
+    font-family: "El Messiri", sans-serif;
+    font-size: 50px;
+}
+
+.offer-section{
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
